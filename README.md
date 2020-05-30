@@ -7,3 +7,4 @@ This dataset contains about 16700 movies that are streamed on 4 different stream
   
 I focus on provide a visual analysis for any individual to easily decide which streaming device would provide maximum streaming content. 
 
+![GitHub Logo](/newplot.png)
